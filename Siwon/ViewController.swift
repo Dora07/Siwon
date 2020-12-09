@@ -1,17 +1,25 @@
-//
-//  ViewController.swift
-//  Siwon
-//
-//  Created by 謝孟芩 on 2020/12/9.
-//
-
 import UIKit
 
 class ViewController: UIViewController {
 
-    override func viewDidLoad() {
+    @IBOutlet weak var LinkTextView: UITextView!
+    override func viewDidLoad()
+    {
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
+     
+        let string = "www.youtube.com/siwonchoi"
+        let attributedLinkString = NSMutableAttributedString(string: string, attributes:[NSAttributedString.Key.link: URL(string: "https://www.youtube.com/siwonchoi")!])
+        let fullAttributedString = NSMutableAttributedString()
+        fullAttributedString.append(attributedLinkString)
+        LinkTextView.isUserInteractionEnabled = true
+        LinkTextView.isEditable = false
+        LinkTextView.attributedText = fullAttributedString
+        
+        
+        LinkTextView.isUserInteractionEnabled = true
+        LinkTextView.isEditable = false
+        LinkTextView.attributedText = fullAttributedString
+     
     }
 
 

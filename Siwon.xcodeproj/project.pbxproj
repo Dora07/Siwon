@@ -15,6 +15,18 @@
 		86497FF725812BA100876BB9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 86497FF525812BA100876BB9 /* LaunchScreen.storyboard */; };
 		8649800225812BA100876BB9 /* SiwonTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8649800125812BA100876BB9 /* SiwonTests.swift */; };
 		8649800D25812BA200876BB9 /* SiwonUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8649800C25812BA200876BB9 /* SiwonUITests.swift */; };
+		8649802E2581313E00876BB9 /* Screen Shot 2020-12-10 at 12.22.07 AM.png in Resources */ = {isa = PBXBuildFile; fileRef = 8649802D2581313E00876BB9 /* Screen Shot 2020-12-10 at 12.22.07 AM.png */; };
+		86498033258131C400876BB9 /* Screen Shot 2020-12-10 at 12.24.26 AM.png in Resources */ = {isa = PBXBuildFile; fileRef = 86498032258131C400876BB9 /* Screen Shot 2020-12-10 at 12.24.26 AM.png */; };
+		864980382581325600876BB9 /* Screen Shot 2020-12-10 at 12.26.35 AM.png in Resources */ = {isa = PBXBuildFile; fileRef = 864980372581325600876BB9 /* Screen Shot 2020-12-10 at 12.26.35 AM.png */; };
+		8649803D2581328200876BB9 /* Screen Shot 2020-12-10 at 12.27.37 AM.png in Resources */ = {isa = PBXBuildFile; fileRef = 8649803C2581328200876BB9 /* Screen Shot 2020-12-10 at 12.27.37 AM.png */; };
+		864980422581364400876BB9 /* Screen Shot 2020-12-10 at 12.43.41 AM.png in Resources */ = {isa = PBXBuildFile; fileRef = 864980412581364400876BB9 /* Screen Shot 2020-12-10 at 12.43.41 AM.png */; };
+		86498047258136E900876BB9 /* Screen Shot 2020-12-10 at 12.46.25 AM.png in Resources */ = {isa = PBXBuildFile; fileRef = 86498046258136E900876BB9 /* Screen Shot 2020-12-10 at 12.46.25 AM.png */; };
+		8649804C2581389900876BB9 /* Screen Shot 2020-12-10 at 12.53.38 AM.png in Resources */ = {isa = PBXBuildFile; fileRef = 8649804B2581389800876BB9 /* Screen Shot 2020-12-10 at 12.53.38 AM.png */; };
+		864980512581392400876BB9 /* Screen Shot 2020-12-10 at 12.55.26 AM.png in Resources */ = {isa = PBXBuildFile; fileRef = 864980502581392400876BB9 /* Screen Shot 2020-12-10 at 12.55.26 AM.png */; };
+		86498056258139C400876BB9 /* Screen Shot 2020-12-10 at 12.58.39 AM.png in Resources */ = {isa = PBXBuildFile; fileRef = 86498055258139C400876BB9 /* Screen Shot 2020-12-10 at 12.58.39 AM.png */; };
+		8649805B25813AA800876BB9 /* Screen Shot 2020-12-10 at 1.02.18 AM.png in Resources */ = {isa = PBXBuildFile; fileRef = 8649805A25813AA800876BB9 /* Screen Shot 2020-12-10 at 1.02.18 AM.png */; };
+		8649806025813ABD00876BB9 /* Screen Shot 2020-12-10 at 1.02.22 AM.png in Resources */ = {isa = PBXBuildFile; fileRef = 8649805F25813ABD00876BB9 /* Screen Shot 2020-12-10 at 1.02.22 AM.png */; };
+		8649806525813B8A00876BB9 /* Screen Shot 2020-12-10 at 1.06.04 AM.png in Resources */ = {isa = PBXBuildFile; fileRef = 8649806425813B8A00876BB9 /* Screen Shot 2020-12-10 at 1.06.04 AM.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +61,20 @@
 		8649800825812BA200876BB9 /* SiwonUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SiwonUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		8649800C25812BA200876BB9 /* SiwonUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SiwonUITests.swift; sourceTree = "<group>"; };
 		8649800E25812BA200876BB9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8649802825812EE500876BB9 /* Screen Shot 2020-12-10 at 12.04.08 AM.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Screen Shot 2020-12-10 at 12.04.08 AM.png"; sourceTree = "<group>"; };
+		8649802925812EE800876BB9 /* IMG_6572.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = IMG_6572.PNG; sourceTree = "<group>"; };
+		8649802D2581313E00876BB9 /* Screen Shot 2020-12-10 at 12.22.07 AM.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Screen Shot 2020-12-10 at 12.22.07 AM.png"; path = "../../../Screen Shot 2020-12-10 at 12.22.07 AM.png"; sourceTree = "<group>"; };
+		86498032258131C400876BB9 /* Screen Shot 2020-12-10 at 12.24.26 AM.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Screen Shot 2020-12-10 at 12.24.26 AM.png"; path = "../../../../../../var/folders/pv/ktg9r_9935l8mh_8fgxh5y_00000gn/T/TemporaryItems/(A Document Being Saved By screencaptureui 2)/Screen Shot 2020-12-10 at 12.24.26 AM.png"; sourceTree = "<group>"; };
+		864980372581325600876BB9 /* Screen Shot 2020-12-10 at 12.26.35 AM.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Screen Shot 2020-12-10 at 12.26.35 AM.png"; path = "../../../Screen Shot 2020-12-10 at 12.26.35 AM.png"; sourceTree = "<group>"; };
+		8649803C2581328200876BB9 /* Screen Shot 2020-12-10 at 12.27.37 AM.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Screen Shot 2020-12-10 at 12.27.37 AM.png"; path = "../../../../../../var/folders/pv/ktg9r_9935l8mh_8fgxh5y_00000gn/T/TemporaryItems/(A Document Being Saved By screencaptureui 3)/Screen Shot 2020-12-10 at 12.27.37 AM.png"; sourceTree = "<group>"; };
+		864980412581364400876BB9 /* Screen Shot 2020-12-10 at 12.43.41 AM.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Screen Shot 2020-12-10 at 12.43.41 AM.png"; path = "../../../../../../var/folders/pv/ktg9r_9935l8mh_8fgxh5y_00000gn/T/TemporaryItems/(A Document Being Saved By screencaptureui 4)/Screen Shot 2020-12-10 at 12.43.41 AM.png"; sourceTree = "<group>"; };
+		86498046258136E900876BB9 /* Screen Shot 2020-12-10 at 12.46.25 AM.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Screen Shot 2020-12-10 at 12.46.25 AM.png"; path = "../../../../../../var/folders/pv/ktg9r_9935l8mh_8fgxh5y_00000gn/T/TemporaryItems/(A Document Being Saved By screencaptureui 5)/Screen Shot 2020-12-10 at 12.46.25 AM.png"; sourceTree = "<group>"; };
+		8649804B2581389800876BB9 /* Screen Shot 2020-12-10 at 12.53.38 AM.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Screen Shot 2020-12-10 at 12.53.38 AM.png"; path = "../../../../../../var/folders/pv/ktg9r_9935l8mh_8fgxh5y_00000gn/T/TemporaryItems/(A Document Being Saved By screencaptureui 6)/Screen Shot 2020-12-10 at 12.53.38 AM.png"; sourceTree = "<group>"; };
+		864980502581392400876BB9 /* Screen Shot 2020-12-10 at 12.55.26 AM.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Screen Shot 2020-12-10 at 12.55.26 AM.png"; path = "../../../Screen Shot 2020-12-10 at 12.55.26 AM.png"; sourceTree = "<group>"; };
+		86498055258139C400876BB9 /* Screen Shot 2020-12-10 at 12.58.39 AM.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Screen Shot 2020-12-10 at 12.58.39 AM.png"; path = "../../../../../../var/folders/pv/ktg9r_9935l8mh_8fgxh5y_00000gn/T/TemporaryItems/(A Document Being Saved By screencaptureui 7)/Screen Shot 2020-12-10 at 12.58.39 AM.png"; sourceTree = "<group>"; };
+		8649805A25813AA800876BB9 /* Screen Shot 2020-12-10 at 1.02.18 AM.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Screen Shot 2020-12-10 at 1.02.18 AM.png"; path = "../../../Screen Shot 2020-12-10 at 1.02.18 AM.png"; sourceTree = "<group>"; };
+		8649805F25813ABD00876BB9 /* Screen Shot 2020-12-10 at 1.02.22 AM.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Screen Shot 2020-12-10 at 1.02.22 AM.png"; path = "../../../Screen Shot 2020-12-10 at 1.02.22 AM.png"; sourceTree = "<group>"; };
+		8649806425813B8A00876BB9 /* Screen Shot 2020-12-10 at 1.06.04 AM.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Screen Shot 2020-12-10 at 1.06.04 AM.png"; path = "../../../../../../var/folders/pv/ktg9r_9935l8mh_8fgxh5y_00000gn/T/TemporaryItems/(A Document Being Saved By screencaptureui 8)/Screen Shot 2020-12-10 at 1.06.04 AM.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +132,7 @@
 				86497FF325812BA100876BB9 /* Assets.xcassets */,
 				86497FF525812BA100876BB9 /* LaunchScreen.storyboard */,
 				86497FF825812BA100876BB9 /* Info.plist */,
+				8649802725812ECB00876BB9 /* image */,
 			);
 			path = Siwon;
 			sourceTree = "<group>";
@@ -126,6 +153,27 @@
 				8649800E25812BA200876BB9 /* Info.plist */,
 			);
 			path = SiwonUITests;
+			sourceTree = "<group>";
+		};
+		8649802725812ECB00876BB9 /* image */ = {
+			isa = PBXGroup;
+			children = (
+				8649806425813B8A00876BB9 /* Screen Shot 2020-12-10 at 1.06.04 AM.png */,
+				8649802D2581313E00876BB9 /* Screen Shot 2020-12-10 at 12.22.07 AM.png */,
+				8649802825812EE500876BB9 /* Screen Shot 2020-12-10 at 12.04.08 AM.png */,
+				8649802925812EE800876BB9 /* IMG_6572.PNG */,
+				8649804B2581389800876BB9 /* Screen Shot 2020-12-10 at 12.53.38 AM.png */,
+				86498055258139C400876BB9 /* Screen Shot 2020-12-10 at 12.58.39 AM.png */,
+				864980372581325600876BB9 /* Screen Shot 2020-12-10 at 12.26.35 AM.png */,
+				86498046258136E900876BB9 /* Screen Shot 2020-12-10 at 12.46.25 AM.png */,
+				864980412581364400876BB9 /* Screen Shot 2020-12-10 at 12.43.41 AM.png */,
+				8649805F25813ABD00876BB9 /* Screen Shot 2020-12-10 at 1.02.22 AM.png */,
+				8649803C2581328200876BB9 /* Screen Shot 2020-12-10 at 12.27.37 AM.png */,
+				86498032258131C400876BB9 /* Screen Shot 2020-12-10 at 12.24.26 AM.png */,
+				864980502581392400876BB9 /* Screen Shot 2020-12-10 at 12.55.26 AM.png */,
+				8649805A25813AA800876BB9 /* Screen Shot 2020-12-10 at 1.02.18 AM.png */,
+			);
+			path = image;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -231,8 +279,20 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				864980382581325600876BB9 /* Screen Shot 2020-12-10 at 12.26.35 AM.png in Resources */,
+				8649806525813B8A00876BB9 /* Screen Shot 2020-12-10 at 1.06.04 AM.png in Resources */,
+				8649806025813ABD00876BB9 /* Screen Shot 2020-12-10 at 1.02.22 AM.png in Resources */,
 				86497FF725812BA100876BB9 /* LaunchScreen.storyboard in Resources */,
+				8649805B25813AA800876BB9 /* Screen Shot 2020-12-10 at 1.02.18 AM.png in Resources */,
+				864980422581364400876BB9 /* Screen Shot 2020-12-10 at 12.43.41 AM.png in Resources */,
+				86498056258139C400876BB9 /* Screen Shot 2020-12-10 at 12.58.39 AM.png in Resources */,
+				8649804C2581389900876BB9 /* Screen Shot 2020-12-10 at 12.53.38 AM.png in Resources */,
+				8649803D2581328200876BB9 /* Screen Shot 2020-12-10 at 12.27.37 AM.png in Resources */,
+				8649802E2581313E00876BB9 /* Screen Shot 2020-12-10 at 12.22.07 AM.png in Resources */,
+				86498033258131C400876BB9 /* Screen Shot 2020-12-10 at 12.24.26 AM.png in Resources */,
 				86497FF425812BA100876BB9 /* Assets.xcassets in Resources */,
+				864980512581392400876BB9 /* Screen Shot 2020-12-10 at 12.55.26 AM.png in Resources */,
+				86498047258136E900876BB9 /* Screen Shot 2020-12-10 at 12.46.25 AM.png in Resources */,
 				86497FF225812B9F00876BB9 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -439,6 +499,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = BSQ6SB2ZMW;
 				INFOPLIST_FILE = Siwon/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.6;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -458,6 +519,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = BSQ6SB2ZMW;
 				INFOPLIST_FILE = Siwon/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.6;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
